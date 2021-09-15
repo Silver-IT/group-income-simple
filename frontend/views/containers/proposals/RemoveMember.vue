@@ -112,7 +112,7 @@ export default {
         })
         this.$refs.proposal.close()
       } catch (e) {
-        console.error(`Failed to remove member ${member}.`, e)
+        console.error('Failed to remove member:', member, e)
         this.$refs.formMsg.danger(e.message)
       }
     }
