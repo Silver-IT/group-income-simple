@@ -92,7 +92,7 @@ declare module '../views/containers/group-settings/GroupLeaveModal.vue' { declar
 declare module '../views/containers/group-settings/InvitationLinkModal.vue' { declare module.exports: Object }
 declare module '../views/containers/navigation/CypressBypassUI.vue' { declare module.exports: Object }
 declare module '../views/containers/navigation/TimeTravel.vue' { declare module.exports: Object }
-declare module '../views/containers/notifications/NotificationsModal.vue' { declare module.exports: Object }
+declare module '../views/containers/notifications/NotificationModal.vue' { declare module.exports: Object }
 declare module '../views/containers/payments/PaymentDetail.vue' { declare module.exports: Object }
 declare module '../views/containers/payments/PaymentsHistoryModal.vue' { declare module.exports: Object }
 declare module '../views/containers/payments/RecordPayment.vue' { declare module.exports: Object }
